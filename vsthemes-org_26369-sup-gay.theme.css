@@ -1,0 +1,27 @@
+/**
+ * @name SUP GAY
+ * @author Systemd
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/26369-sup-gay.html
+ * @authorLink https://vsthemes.org/user/Systemd/
+ * @authorId 2
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 3,18,69;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.15;
+    --memberlistransparency: 0.15;
+    --accentcolor: 40,0,176;
+    --background: url("https://vsthemes.org/uploads/posts/2021-02/1612973997_e4_-nicoj74.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
