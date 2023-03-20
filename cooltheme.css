@@ -7,7 +7,7 @@
  * @authorLink https://vsthemes.org/user/Systemd/
  * @authorId 2
 */
-@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+@import url(https://i.imgur.com/aexOLCX.png);
 :root {
     --transparencycolor: 3,18,69;
     --transparencyalpha: 0.05;
@@ -15,7 +15,7 @@
     --guildchanneltransparency: 0.15;
     --memberlistransparency: 0.15;
     --accentcolor: 40,0,176;
-    --background: url("https://vsthemes.org/uploads/posts/2021-02/1612973997_e4_-nicoj74.webp");
+    --background: url("https://i.imgur.com/aexOLCX.png");
     --backdrop: rgba(0,0,0,0.2);
     --backgroundblur: 0px;
     --popoutblur: 0px;
